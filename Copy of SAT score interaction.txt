@@ -1,0 +1,5 @@
+Welcome to DrJava.  Working directory is /Users/Sanjida/Desktop/Fall 2017/Comp Sci
+> run SATScores
+9 did best in math.
+11 did best in reading.
+> 

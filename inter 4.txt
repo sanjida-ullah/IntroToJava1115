@@ -1,0 +1,8 @@
+Welcome to DrJava.  Working directory is /Users/Sanjida/Desktop/Fall 2017
+> run SanjidaUllahHomework3
+Enter wich number phone plan you have. [DrJava Input Box]
+ Phone plan option 3 has a $35.00 base price for up to 50 minutes, and then 3 cents per minute.
+ This option does not allow texting.
+Enter number minutes used [DrJava Input Box]
+Bill price is: $35.69
+> 

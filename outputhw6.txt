@@ -1,0 +1,5 @@
+Welcome to DrJava.  Working directory is /Users/Sanjida/Desktop/Fall 2017/Comp Sci
+> run OutPutFiles
+Zipcodes begining with 112 is 2.
+Zipcodes NOT begining with 112 is 3.
+> 

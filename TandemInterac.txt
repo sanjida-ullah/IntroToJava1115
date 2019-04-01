@@ -1,0 +1,10 @@
+Welcome to DrJava.  Working directory is /Users/Sanjida/Desktop/Sanjida/Fall 2017/Comp Sci
+> run DnaSeq3
+ TAGTAGTAGTAGTAGTAGTAGTAGTAG
+true
+Enter motif to search
+ [DrJava Input Box]
+ This motif occurs 9 times
+ This tandem repeat occurs 9 times
+8
+> 

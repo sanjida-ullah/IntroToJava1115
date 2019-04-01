@@ -1,0 +1,30 @@
+Welcome to DrJava.  Working directory is /Users/Sanjida/Desktop/Fall 2017/Comp Sci
+> run Game
+Hello Gamer! I will think of a number between 0 and 100 your job is to guess the number. 
+ 10I will let you know if you should guess higher or lower
+Enter a guess:
+ [DrJava Input Box]
+Nope! My number is lower than 50
+Enter a guess:
+ [DrJava Input Box]
+Nope! My number is lower than 40
+Enter a guess:
+ [DrJava Input Box]
+Nope! My number is lower than 30
+Enter a guess:
+ [DrJava Input Box]
+Nope! My number is higher than 20
+Enter a guess:
+ [DrJava Input Box]
+Nope! My number is higher than 25
+Enter a guess:
+ [DrJava Input Box]
+Nope! My number is higher than 26
+Enter a guess:
+ [DrJava Input Box]
+Nope! My number is higher than 27
+Enter a guess:
+ [DrJava Input Box]
+HOORAY! You guessed right!!
+It took you 9 guess to getthe right number.
+> 

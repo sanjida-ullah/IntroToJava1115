@@ -1,0 +1,10 @@
+Welcome to DrJava.  Working directory is /Users/Sanjida/Desktop/Sanjida/Fall 2017/Comp Sci
+> run DnaSeq3
+ ATGCTG
+true
+Enter motif to search
+ [DrJava Input Box]
+ This motif occurs 1 times
+This motif does not occur in tandem repeat
+0
+> 

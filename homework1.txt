@@ -1,0 +1,7 @@
+Welcome to DrJava.  Working directory is /Users/Sanjida
+> run DosageCalculator
+This program helps health care providers determine dosage of medication based on patient's weight.
+Patient came in not feeling well, based on her weight of 115.0 lbs (52.21 kg), the patient was prescribed 1566.3 mg of medication.
+Patient number two was also not feeling well, based on her weight of 134.0 lbs (60.836 kg), the patient was prescribed 1825.08 mg of medication.
+Patient number three came in with symptoms similar to that of patient two. Based on her weight of 152.0 lbs (69.008 kg), the patient was prescribed 2070.24 mg of medication.
+> 

@@ -1,0 +1,10 @@
+Welcome to DrJava.  Working directory is /Users/Sanjida/Desktop/Fall 2017
+> run SlopeOfALine
+Enter Point X1 [DrJava Input Box]
+Enter Point X2  [DrJava Input Box]
+Enter Point Y1  [DrJava Input Box]
+Enter Point Y2  [DrJava Input Box]
+ Point A on a coordinate plane is (5.0,8.0). Point B on a coordinate plane is (10.0,22.0).
+The distance between point A and B is (5.0, 14.0).
+The slope of the line is (2.8).
+> 
